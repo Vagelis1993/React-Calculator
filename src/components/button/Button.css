@@ -1,0 +1,26 @@
+.btn {
+  border: none;
+  text-align: center;
+  outline: 0;
+  width: 60px;
+  height: 60px;
+  font-size: 16px;
+  background-color: rgb(91 91 151);
+  margin: 2px;
+  border-radius: 10px;
+  color: white;
+  font-weight: bolder;
+  cursor: pointer;
+}
+
+.equalSign {
+  width: 124px;
+}
+
+.colorRed {
+  background-color: red;
+}
+
+.colorGreen {
+  background-color: green;
+}

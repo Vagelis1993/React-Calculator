@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(140deg, rgb(77, 77, 95), rgb(33, 33, 58));
+}
+
+.calculator {
+  padding: 20px;
+  border-radius: 10px;
+  background-color: white;
+}
+
+/* form input[type="button"]:hover {
+  background-color: rgb(64, 64, 64);
+} */
+
+/* form .monitor {
+  display: flex;
+  justify-content: flex-end;
+  margin: 5px 0 15px 0;
+} */
+
+/* form .monitor input {
+  text-align: right;
+  flex: 1;
+  font-size: 40px;
+  padding: 5px 10px;
+  background-color: rgb(64, 64, 64);
+} */

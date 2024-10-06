@@ -1,0 +1,16 @@
+.monitor {
+  display: flex;
+  justify-content: flex-end;
+  border: none;
+  outline: 0;
+  width: 235px;
+  height: 50px;
+  font-size: 40px;
+  background-color: rgb(64, 64, 64);
+  margin: 5px 0 15px 0;
+  padding: 5px 10px;
+  border-radius: 10px;
+  color: white;
+  font-weight: bolder;
+  /* cursor: pointer; */
+}
